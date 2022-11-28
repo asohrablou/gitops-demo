@@ -1,5 +1,5 @@
 apiVersion: v2
 name: webserver-helm
-description: Helm Chart for Demo on SAHA DevOps Group
+description: Helm Chart for Demo
 type: application
 version: 1.0.0
